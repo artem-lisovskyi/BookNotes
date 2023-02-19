@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BookNotes</string>
+    <string name="search">Search</string>
+    <string name="searchfilms">Search Books</string>
+    <string name="interstellar">Divergent</string>
+    <string name="no_description">No description</string>
+    <string name="no_image">No image</string>
+    <string name="no_title">No title</string>
+    <string name="submit">Submit</string>
+    <string name="no_internet_connection">No Internet connection</string>
+    <string name="no_books">Books not found</string>
+    <string name="Info">Info</string>
+</resources>
